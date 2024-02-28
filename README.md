@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/mJzKn0z9GGkkjRhrI5/giphy.gif" width="100"/>
+  <a href="https://bathroomstore.ru/">Ванная комната интернет-магазин сантехники</a>
   <div id="badges">
   <a href="https://vk.com/trudyaga85">
     <img src="https://img.shields.io/badge/вконтакте-blue?style=for-the-badge&logo=VK&logoColor=white" alt="LinkedIn Badge"/>
