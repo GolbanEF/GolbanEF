@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <a href="https://bathroomstore.ru/">Ванная комната интернет-магазин сантехники</a>
-    <a href="https://bathroomstore.ru/">
+  <a href="https://bathroomstore.ru/" aling="center">Ванная комната интернет-магазин сантехники</a>
+    <a href="https://bathroomstore.ru/" aling="center">
       <img src="https://i0.wp.com/bathroomstore.ru/wp-content/uploads/2024/01/Sofix-1700%D1%85700-%D0%B8%D0%B7%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F-1.jpg?fit=524%2C524&ssl=1"/>
     </a>
   <div id="badges">
