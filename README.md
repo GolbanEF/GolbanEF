@@ -4,7 +4,7 @@
   </a>
   <p>Заходи и покупай, не стесняйся!!!</p>
   <div id="badges">
-  <a href="https://vk.com/trudyaga85">
+  <a href="https://vk.com/batroomstore">
     <img src="https://img.shields.io/badge/вконтакте-blue?style=for-the-badge&logo=VK&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/GolbanEF">
